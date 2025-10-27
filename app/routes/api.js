@@ -15,3 +15,7 @@ router.put('/researchers', ResearcherController.update);
 router.delete('/researchers', ResearcherController.destroy);
 
 export default router;
+
+// Csathó Bulcsú
+// Szoft II/E
+// 2025.10.27 22:22

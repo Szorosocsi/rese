@@ -35,3 +35,7 @@ const ResearchController = {
 };
 
 export default ResearchController;
+
+// Csathó Bulcsú
+// Szoft II/E
+// 2025.10.27 22:22

@@ -12,3 +12,8 @@ app.use(express.json());
 app.listen(PORT, () => {
     console.log('Server is running on PORT:', PORT);
 });
+
+
+// Csathó Bulcsú
+// Szoft II/E
+// 2025.10.27 22:22
